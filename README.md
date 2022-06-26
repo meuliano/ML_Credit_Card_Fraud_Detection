@@ -1,5 +1,9 @@
 <h1 align = center>Credit Card Fraud Detection Using Logistic Regression and Support Vector Machines</h1>
 
+## Overview
+Main code is FraudDection.ipynb
+Old code used to develop this file is stored in the Development folder.
+
 ## Requirements:
 - pandas
 - numpy
