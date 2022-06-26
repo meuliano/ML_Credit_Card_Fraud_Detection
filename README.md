@@ -1,4 +1,4 @@
-<h1 align = center>Credit Card Fraud Detection Using Support Vector Machines</h1>
+<h1 align = center>Credit Card Fraud Detection Using Logistic Regression and Support Vector Machines</h1>
 
 ## Requirements:
 - pandas
